@@ -1,6 +1,6 @@
 # Sales-Comparison-for-2-Selected-Regions-using-Tableau
 The dashboard was developed in Tableau and incorporated interactive Primary Region and Secondary Region parameters to allow users to dynamically select and compare any two regions from the dataset. 
-**Dashboard**:[Regional Sales Comparison.png](https://github.com/zhaoycy/Data-Analysis/blob/main/Sales%20Comparison%20for%202%20Selected%20Regions.png)
+**Dashboard**:[Regional Sales Comparison.png](https://github.com/zhaoycy/Sales-Comparison-for-2-Selected-Regions-using-Tableau/blob/main/Sales%20Comparison%20for%202%20Selected%20Regions.png)
 
 **Goal**: To create an interactive dashboard to visualise and compare sales performance between two dynamically selected regions.
 
